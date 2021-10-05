@@ -1,7 +1,7 @@
 # assignment.py
 doubt clarification
 trouble coding the second half of the question please help with the coding part and correct the mistakes 
-
+c = 30 # done by pavani
 #Li3
 WAP to check if a specific employee e is present in a company or not. Employee names are saved in a list.
 e is taken as input from the user.
