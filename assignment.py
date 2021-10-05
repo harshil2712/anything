@@ -30,3 +30,4 @@ for x in l:
     print("Employee is present.")
 else:
     print("Employee is not present")
+print("something") # done by pavani
